@@ -43,6 +43,8 @@ Farmism Sensoring Instance is a low-cost, easy-to-deploy agrigultural sensor tec
 - Wind speed and direction
 - UV Index
 
+List of supported sensors can be found [here](https://www.letscontrolit.com/wiki/index.php/Devices).
+
 ## Router
 
 For router we recommend GLi AR-150, but any router will work. If there is already router in use (e.g. internet or other home or community use), that router can be used as well.
