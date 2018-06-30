@@ -1,7 +1,6 @@
 <img src='https://raw.githubusercontent.com/mikkokotila/farmism/master/farmism_logo.png' width=200px>
 
-# farmism
-sensor based farming
+Farmism Sensoring Instance is a low-cost, easy-to-deploy agrigultural sensor technology helping micro and small size farms to improve efficiency while reducing environmental impact. The entire system can be deployed for less than $50 with zero recurring cost and can be entirely solar powered within that cost.
 
 ## Benefits of Sensor Based Farming
 
@@ -48,7 +47,7 @@ sensor based farming
 
 For router we recommend GLi AR-150, but any router will work. If there is already router in use (e.g. internet or other home or community use), that router can be used as well.
 
-## Dashboard
+## Dashboard Client
 
 ### Components 
 
@@ -56,33 +55,25 @@ There are two scenarios; where internet access is available and when there is no
 
 NOTE: The dashboard device needs to be live 24/7.
 
+Minimum requirement: 
+
+- Rasperry Pi
+- Small solar panel 
+- Battery bank
+
 ### Software
 
 - Node-Red
 - Mosquitto 
 - Mosquitto Spy
 
-
 ## Cost
 
-The cost associated with setting up a single farmism instance is between $12 and $25, depending on the number of sensors included.
+The cost is a factor of four things: 
 
+- Sensoring Instance at $12 to $35 (depending on the sensors) 
+- Router at up to $25
+- Dashboard Client at up to $10
+- Miscellaneous costs at up to $20
 
-### Sensor board
-
-- Node-MCU or ESP8266 board
-
-You might want to start with BME280 breakout module as your first sensor.
-
-### Router 
-
-- GLi AR-150 or similar 
-
-If you want to push data to the internet, the router needs to be. 
-
-### Broker 
-
-- Rasperry Pi or similar
-
-Mosquito needs to run on this device. 
-
+The total cost would range between $20 to $100 depending on criterias that had been explained in the above sections.
