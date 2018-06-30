@@ -1,6 +1,15 @@
 # farmism
 sensor based farming
 
+## Benefits of Sensor Based Farming
+
+- Increased yield 
+- Reduced need for fertilizers
+- Water conservation
+- Reduced environmental footprint
+- Improved crop experimentation
+- Measure greenhouse designs
+
 ### Sensor board
 
 - Node-MCU or ESP8266 board
