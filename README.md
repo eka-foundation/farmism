@@ -14,9 +14,9 @@ Farmism Sensoring Instance is a low-cost, easy-to-deploy agrigultural sensor tec
 
 ## Build 
 
-- Sensoring Instance
-- Router
-- Dashboard
+- [Sensoring Instance](https://github.com/mikkokotila/farmism#sensoring-instance)
+- [Router](https://github.com/mikkokotila/farmism#router)
+- [Dashboard](https://github.com/mikkokotila/farmism#sensoring-instance)
 
 ### Sensoring Instance
 
