@@ -1,3 +1,5 @@
+<img src='https://raw.githubusercontent.com/mikkokotila/farmism/master/farmism_logo.png' width=200px>
+
 # farmism
 sensor based farming
 
