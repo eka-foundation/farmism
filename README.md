@@ -58,21 +58,12 @@ NOTE: The dashboard device needs to be live 24/7.
 
 - Node-Red
 - Mosquitto 
-
+- Mosquitto Spy
 
 
 ## Cost
 
 The cost associated with setting up a single farmism instance is between $12 and $25, depending on the number of sensors included.
-
-
-D
-Misc components like wires, resistors, LDO regulators - $2-4
-
-In general you can do A + (one or more from B) + C + D 
-
-So with the just temperature/pressure/humidity, we see a cost of around $2 + $3 + $5-8 + $2-4 = $12-$25
-
 
 
 ### Sensor board
