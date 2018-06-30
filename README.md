@@ -9,6 +9,7 @@ sensor based farming
 - Reduced environmental footprint
 - Improved crop experimentation
 - Measure greenhouse designs
+- Process automation
 
 ### Sensor board
 
