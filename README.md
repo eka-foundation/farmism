@@ -1,6 +1,10 @@
 <img src='https://raw.githubusercontent.com/mikkokotila/farmism/master/farmism_logo.png' width=200px>
 
-Farmism Sensoring Instance is a low-cost, easy-to-deploy agrigultural sensor technology helping micro and small size farms to improve efficiency while reducing environmental impact. The entire system can be deployed for less than $50 with zero recurring cost and can be entirely solar powered within that cost.
+Farmism Sensor System is a low-cost, easy-to-deploy agrigultural sensor technology helping micro and small size farms to improve efficiency while reducing environmental impact. The entire system can be deployed for less than $50 with zero recurring cost and can be entirely solar powered within that cost.
+
+## Where Can It Be Used
+
+Farmism Sensor System can be deployed on the field or in greenhouse. 
 
 ## Benefits of Sensor Based Farming
 
